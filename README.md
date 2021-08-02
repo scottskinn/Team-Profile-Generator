@@ -18,6 +18,10 @@
   ## Installation:
       Watch my video.
 
+
+    https://user-images.githubusercontent.com/84105761/127795212-195c6681-7288-4f50-8902-9d6358d2d464.mp4
+
+
   ## Usage:
       After you run node index.js in the command line, follow the prompt questions to generate an html file.
 
