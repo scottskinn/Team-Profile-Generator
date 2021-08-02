@@ -34,7 +34,7 @@ const generateManager = function (Manager) {
   </div>`;
   };
   //array
-  generateHTML = (data) => {
+  renderTeam = (data) => {
     pageArray = [];
   
     for (var i = 0; i < data.length; i++) {
@@ -91,4 +91,4 @@ const generateManager = function (Manager) {
   </html>`;
   };
   
-  module.exports = pageTemplate;
+  module.exports = renderTeam;
